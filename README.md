@@ -1,4 +1,4 @@
-# NamePresencia — Project Overview
+# Presencia — Project Overview
 
 **Slogan:** *Every Presence, Perfectly Tracked.*
 
