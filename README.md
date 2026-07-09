@@ -1,8 +1,8 @@
-# NamePresencia
+# Presencia
 
 **Every Presence, Perfectly Tracked.**
 
-NamePresencia is a scalable facial recognition attendance platform built for universities. 
+Presencia is a scalable facial recognition attendance platform built for universities. 
 It automatically recognizes students and staff as they enter a classroom and logs attendance 
 in real time — no manual roll calls, no proxy sign-ins.
 
