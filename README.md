@@ -4,7 +4,7 @@
 
 ## 1. What This Is
 
-NamePresencia is a facial-recognition-based attendance platform built for university campuses. Instead of manual roll calls, sign-in sheets, or swipe cards, students and staff are recognized automatically as they enter a classroom, lecture hall, or exam venue, and their attendance is logged in real time.
+Presencia is a facial-recognition-based attendance platform built for university campuses. Instead of manual roll calls, sign-in sheets, or swipe cards, students and staff are recognized automatically as they enter a classroom, lecture hall, or exam venue, and their attendance is logged in real time.
 
 ## 2. Problem Statement
 
@@ -34,7 +34,7 @@ Universities today struggle with:
 
 ## 5. High-Level System Components
 
-NamePresencia is built as a set of independently deployable services:
+Presencia is built as a set of independently deployable services:
 
 1. **Web Dashboard** — the interface for admins, lecturers, and students
 2. **Edge Agent** — software running on classroom devices/cameras that captures video and forwards frames
